@@ -57,6 +57,11 @@ So in all methods of my application I will potentially have the userconnected at
 req.connectedUser
 ```
 
+## Link
+
+Inspired of http://blog.valeriogheri.com/how-to-secure-your-http-api-endpoints-using-facebook-as-oauth-provider
+but using a jsonwebtoken as token.
+
 
 
 
