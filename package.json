@@ -1,0 +1,16 @@
+{
+  "name": "facebookrestauthentication",
+  "version": "1.0.0",
+  "description": "How to authenticate a REST api with facebook",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Dutra Tine e Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "request": "^2.75.0"
+  }
+}
