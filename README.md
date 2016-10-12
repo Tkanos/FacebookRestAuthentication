@@ -14,7 +14,7 @@ You can get one for test on https://developers.facebook.com/tools/explorer/?meth
 ![Get Token](https://github.com/Tkanos/FacebookRestAuthentication/blob/master/images/GetFacebookToken.png)
 
 Then (after have done a npm start), you can use a Rest App to call our Login service.
-put your facebooktoken on the header :
+put your facebooktoken on the header, you will receive the jsonwebtoken on the response:
 
 ![Rest Call](https://github.com/Tkanos/FacebookRestAuthentication/blob/master/images/RestCall.png)
 
