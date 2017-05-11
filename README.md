@@ -7,7 +7,7 @@ I want that my WebApp authenticate the user with facebook.
 Once it is done, the WebApp will send the facebookToken to the api, and thanks to that the api will be able to have access to facebook user infomation.
 And we will be able to create a JsonWebToken to authenticate our REST api.
 
-## How to test this Api
+## How to test this Api 
 
 You can get one for test on https://developers.facebook.com/tools/explorer/?method=GET&path=me&version=v2.7
 
